@@ -1,0 +1,1 @@
+[null,{"name":"SetGame","temp":"","event-type":"3","actions":[{"status":"3","name":"Set Bot Status"},{"gameName":".help","gameLink":"","name":"Set Bot Game"},{"time":"3","measurement":"1","name":"Wait"},{"gameName":".stock","gameLink":"","name":"Set Bot Game"},{"time":"3","measurement":"1","name":"Wait"}]}]
